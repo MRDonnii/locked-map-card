@@ -1,5 +1,12 @@
 # Locked Map Card
 
+## Neutral mobile preview
+
+![Neutral mobile preview of locked-map-card](docs/preview.png)
+
+> Rendered at 390 px mobile width with fictional Home Assistant entities and values. No private dashboard, person, address, camera, or sensor data is included.
+
+
 Tynd wrapper omkring Home Assistants indbyggede `map`-kort: låser panoreringen til den position du angav i konfigurationen, men lader zoom-knapperne blive ved med at virke (det indbyggede kort låser normalt begge dele sammen).
 
 ```yaml
